@@ -1,2 +1,2 @@
 # Final-Freshman-learning
-为Final实验室新生学会使用GitHub与Git所创建的public项目
+为实验室新生学会使用GitHub与Git所创建的public项目
